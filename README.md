@@ -1,4 +1,4 @@
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+![Badge Finalizado](https://img.shields.io/badge/STATUS-FINALIZADO-orange)
 
 # Proyecto Final
 
